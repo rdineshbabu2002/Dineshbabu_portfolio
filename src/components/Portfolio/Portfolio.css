@@ -24,15 +24,20 @@
 }
 
 .portfolio-slider {
-  margin: 0px auto;
+  /* margin: 0px auto; */
   margin-top: 3rem;
   margin-bottom: 3rem;
-  width: 80%;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 30px;
+  align-items: center;
+  justify-content: space-evenly;
 }
-
+@media only screen and (max-width: 850px) {
+  .portfolio-slider {
+    grid-template-columns: 1fr;
+  }
+}
 .portfolio-slider .swiper-slide {
   width: 20rem;
 }
