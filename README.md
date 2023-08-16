@@ -1,20 +1,17 @@
-# Ashwinth-Portfolio
+# Portfolio
 
-![image](https://github.com/Ashwinth07/Ashwinth_Portfolio/assets/91009355/dd415d76-2620-483c-b8e0-82b349c4e9cd)
-![image](https://github.com/Ashwinth07/Ashwinth_Portfolio/assets/91009355/d4ab015d-cbce-497f-90f1-4ace6d2889ad)
-![image](https://github.com/Ashwinth07/Ashwinth_Portfolio/assets/91009355/c9280865-5197-4fb0-8935-ecb266a1eca9)
+<img width="958" alt="image" src="https://github.com/rdineshbabu2002/Dineshbabu_portfolio/assets/90496628/fe982692-46a7-4916-931c-3b3b62e14035">
+<img width="941" alt="image" src="https://github.com/rdineshbabu2002/Dineshbabu_portfolio/assets/90496628/3e341999-9852-4469-a603-01b23993f228">
+![Uploading image.png…]()
 
 
 Explore my portfolio website to witness the fusion of my skills and creativity, showcased through a captivating array of projects. From innovative web designs to interactive user interfaces, each project reflects my dedication to excellence. Embark on a visual journey that unveils the power of technology and design in shaping exceptional digital experiences.
+## Demo
 
-
-## Website Link 
-https://ashwinth-portfolio.netlify.app/
+https://rdineshbabu.vercel.app
 
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
-
-
+**Client:** React
 
