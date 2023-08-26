@@ -18,7 +18,7 @@ const Footer = () => {
           >
             <Insta color="white" size={"3rem"} />
           </a>
-          <a href="" target="_blank">
+          <a href="https://www.facebook.com/ravichandren.ravichandren.31/" target="_blank">
             <Facebook color="white" size={"3rem"} />
           </a>
           <a href="https://github.com/rdineshbabu2002" target="_blank">
